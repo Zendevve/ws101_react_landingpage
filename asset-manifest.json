@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zendevve/ws101_react_landingpage/static/css/main.d47f31ee.css",
+    "main.js": "/Zendevve/ws101_react_landingpage/static/js/main.8bb3e1c6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Zendevve/ws101_react_landingpage/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero.png": "/Zendevve/ws101_react_landingpage/static/media/hero.b2988276751c5b233b58.png",
+    "index.html": "/Zendevve/ws101_react_landingpage/index.html",
+    "main.d47f31ee.css.map": "/Zendevve/ws101_react_landingpage/static/css/main.d47f31ee.css.map",
+    "main.8bb3e1c6.js.map": "/Zendevve/ws101_react_landingpage/static/js/main.8bb3e1c6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Zendevve/ws101_react_landingpage/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47f31ee.css",
+    "static/js/main.8bb3e1c6.js"
+  ]
+}
